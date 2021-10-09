@@ -1,0 +1,52 @@
+.heading{
+    font-size:25px;
+    margin-top:0px;
+}
+
+.NOTE{
+    font-size: 18px;
+    color: aqua;
+    background-color: crimson;
+}
+
+.div_speed{
+    float:left;
+    margin-left:10px;
+}
+
+.div_speed_img,.div_volume_img{
+    width:200px;
+    border-radius: 30px;
+}
+
+#speed,#volume{
+    font-size:23px;
+    margin:15px;
+}
+
+.div_volume{
+    float:right;
+    margin-right:10px;
+}
+
+canvas{
+    margin-top: 110px;
+    border:solid 5px  blue;
+    border-radius: 30px;
+    box-shadow:3px 3px 3px aqua;
+}
+
+#footer{
+    width:100%;
+    position: fixed;
+    bottom:0px;
+    background-color: blue;
+    color: aqua;
+    text-align: center;
+}
+
+.Song_name{
+    background-color: blueviolet;
+    color: cyan;
+    font-size: 30px;
+}
